@@ -1,4 +1,4 @@
 # baruch-mfe-python-summer
 For Python workshop in Baruch MFE summer immersion
 
-Homework 1:
+Homework 1
